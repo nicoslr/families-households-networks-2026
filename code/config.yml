@@ -1,0 +1,37 @@
+data:
+  persoontab: G:/Bevolking/GBAPERSOONTAB/2018/GBAPERSOON2018TABV2.sav
+  overlijdentab: G:/Bevolking/GBAOVERLIJDENTAB/2019/GBAOVERLIJDEN2019TABV1.sav
+  adresobjectbus: G:/Bevolking/GBAADRESOBJECTBUS/GBAADRESOBJECT2019BUSV1.sav
+  vslgwbtab: G:/BouwenWonen/VSLGWBTAB/VSLGWB2023TAB03V1.sav
+  spine: ../data/spine.csv
+  net_family: G:/Bevolking/FAMILIENETWERKTAB/FAMILIENETWERK2018TABV1.csv
+  net_household: G:/Bevolking/HUISGENOTENNETWERKTAB/HUISGENOTENNETWERK2018TABV1.csv
+  edges_fam_full: ../data/edges_fam_full.csv
+  edges_fam_uniplex: ../data/edges_fam_uniplex.csv
+  edges_fam_core: ../data/edges_fam_core.csv
+  edges_house_full: ../data/edges_housemates_full.csv
+  edges_hhd: ../data/edges_hhd.csv
+  edges_hhd_d1: ../data/edges_hhd_d1.csv
+  edges_hhd_d2: ../data/edges_hhd_d2.csv
+  edges_hhd_d3: ../data/edges_hhd_d3.csv
+  edges_hhd_d4: ../data/edges_hhd_d4.csv
+  egonets: ../data/egonets.csv
+  sample: ../data/sample.csv
+  survey_raw: L:/9314_data_kinderwensCBKV1.csv
+  survey: ../data/kinderwens_encrypted.csv
+  survey_edges: ../data/survey_edges.csv
+  survey_outcomes: ../data/survey_outcomes.csv
+  kincounts: ../data/kincounts.csv
+  link_file: G:/Externesurvey/LISS/LISSkoppelbestandrespondenten2024V3.sav
+
+output:
+  tab_hhd_comp: ../output/tab_hhd_comp_small.csv
+  fig_2_kincounts: ../output/fig_2_kincounts.png 
+  fig_3_size: ../output/fig_3_size.png 
+  fig_3_size_hist: ../output/fig_3_size_hist.png 
+  fig_4_density: ../output/fig_4_density.png 
+  fig_5_overlap: ../output/fig_5_overlap.png
+  fig_6_regression: ../output/fig_6_regression.png 
+  fig_7_hhdsize: ../output/fig_7_hhdsize.png
+  tab_descriptives: ../output/tab_descriptives.csv
+  dict_regressions: ../output/dict_regressions.json
