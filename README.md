@@ -1,6 +1,6 @@
 ## Families, Households, Networks - Soler et al. 2026
 
-This repository contains the instructions and code to reproduce the results for the paper *Families, households, networks: Rethinking the relational structure of families through large-scale network data* by Nicolás Soler, Tom Emery, and Agnieszka Kanas (published in *Demography*, 2026).
+This repository contains the instructions and code to reproduce the results for the paper *Families, households, networks: Rethinking the relational structure of families through large-scale network data* by Nicolás Soler, Tom Emery, and Agnieszka Kanas.
 
 To reproduce the analysis, you need access to the [Remote Access environment](https://www.cbs.nl/en-gb/our-services/customised-services-microdata/microdata-conducting-your-own-research) of Statistics Netherlands, as well as access to the [data archive](https://www.dataarchive.lissdata.nl/) of the *Longitudinal Internet Studies for the Social Sciences* (LISS) survey.
 
