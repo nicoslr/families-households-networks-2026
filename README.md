@@ -31,10 +31,14 @@ The analysis was conducted in the Research Access environment of Statistics Neth
 
 ## 3 - How to cite
 
+If you re-use or adapt (part of) the code in this repository, please provide appropriate reference to the following journal article:
+
 **Published article**
 ```
 Coming soon.
 ```
+
+For earlier versions of the article, see the pre-print:
 
 **Pre-print**
 ```
